@@ -48,7 +48,6 @@ class App extends Component {
     const { addedIds, quantityById } = this.state;
     if (quantityById[productId] !== undefined ) {
       const newQuantityById = removeCartQuantity(productId, quantityById);
-      console.log({newQuantityById});
       let newAddedIds = !newQuantityById[productId] ? removeCartIds(productId, addedIds) : addedIds;
       this.loadState(newAddedIds, newQuantityById);
     }
