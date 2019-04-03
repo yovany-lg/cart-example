@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import Nav from './components/Nav';
 import ProductList from './components/ProductList';
-import Footer from './components/Footer';
+import FeedMe from './components/FeedMe';
 
 import  {
   addCartIds,
@@ -79,7 +79,7 @@ class App extends Component {
           removeFromCart={this.removeFromCart}
           deleteFromCart={this.deleteFromCart}
         />
-        <Footer />
+        <FeedMe />
       </Fragment>
     );
   }
