@@ -8,6 +8,20 @@ const Nav = ({ total }) => (
         <div className="navbar-item">
           <h1 className="title">My Store</h1>
         </div>
+        <div className="navbar-item">
+          <a class="button is-light" rel="noopener noreferrer" href="https://github.com/yovany-lg/cart-example" target="_blank">
+            <span class="icon is-small">
+              <i class="fab fa-github fa-lg"></i>
+            </span>
+          </a>
+        </div>
+        <div className="navbar-item">
+          <a class="button is-light" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC1oxnJjmWlaYR3meTzeaW4A" target="_blank">
+            <span class="icon is-small">
+              <i class="fab fa-youtube fa-lg"></i>
+            </span>
+          </a>
+        </div>
         <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
