@@ -57,7 +57,7 @@ class App extends Component {
     const { addedIds, quantityById } = this.state;
     if (quantityById[productId]) {
       const newQuantityById = {
-        ...quantityById[productId],
+        ...quantityById,
         [productId]: undefined,
       }
       const newAddedIds = addedIds.filter(id => id !== productId);
