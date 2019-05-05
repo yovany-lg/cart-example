@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cart-example/static/media/fa-solid-900.418dad87.woff2"
   },
   {
-    "revision": "12a250af43a1a433740b",
+    "revision": "d306b3b68f367171cfd3",
     "url": "/cart-example/static/css/main.a100ff44.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/cart-example/static/media/fa-brands-400.5e2f9212.woff2"
   },
   {
-    "revision": "12a250af43a1a433740b",
-    "url": "/cart-example/static/js/main.659ef835.chunk.js"
+    "revision": "d306b3b68f367171cfd3",
+    "url": "/cart-example/static/js/main.62001f64.chunk.js"
   },
   {
     "revision": "2ef8ba3410dcc71578a880e7064acd7a",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/cart-example/static/media/fa-regular-400.5eb754ab.svg"
   },
   {
-    "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
-    "url": "/cart-example/static/media/fa-solid-900.46e7cec6.eot"
-  },
-  {
     "revision": "ff8d9f8adb0d09f11d4816a152672f53",
     "url": "/cart-example/static/media/fa-solid-900.ff8d9f8a.ttf"
+  },
+  {
+    "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
+    "url": "/cart-example/static/media/fa-solid-900.46e7cec6.eot"
   },
   {
     "revision": "5bf145531213545e03ff41cd27df7d2b",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/cart-example/static/css/2.d00cb7e3.chunk.css"
   },
   {
-    "revision": "2b67fbdbae7f7c7cd2200a7fce613631",
+    "revision": "560f8c565ef734d3047ada51e60d983f",
     "url": "/cart-example/index.html"
   }
 ];
