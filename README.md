@@ -11,4 +11,4 @@ Para ejecutar localmente el proyecto:
 # Feed me
 Con tu ayuda puedo seguir creando mas cursos gratis .
 
-  [☕](https://www.paypal.me/yovanyluis/1) [🍔](https://www.paypal.me/yovanyluis/5) [🍺](https://www.paypal.me/yovanyluis/10)
+  [☕](http://bit.ly/2ZWS2Mn) [🍔](http://bit.ly/2H3H54d) [🍺](http://bit.ly/2GWxgnt)
