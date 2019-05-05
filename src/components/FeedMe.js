@@ -11,7 +11,7 @@ const MyCard = () => (
     <div class="card-content">
       <div class="media">
        <div class="media-content">
-          <strong>Programo por Comida </strong>😉 <a href="https://twitter.com/yovanylg" rel="noopener noreferrer" target="_blank" aria-label="retweet">@yovanylg</a>
+          <strong>Programo por Comida </strong>😉 <a href="https://www.facebook.com/cursawebchannel/" rel="noopener noreferrer" target="_blank" aria-label="retweet">@cursawebchannel</a>
         </div>
       </div>
 
@@ -20,12 +20,12 @@ const MyCard = () => (
       </div>
     </div>
     <footer class="card-footer">
-      <a className="card-footer-item" href="https://www.paypal.me/yovanyluis/2" rel="noopener noreferrer" target="_blank" aria-label="reply">
+      <a className="card-footer-item" href="http://bit.ly/2ZWS2Mn" rel="noopener noreferrer" target="_blank" aria-label="reply">
         <span className="icon has-text-danger">
           <i className="fas fa-coffee" aria-hidden="true"></i>
         </span>
       </a>
-      <a className="card-footer-item" href="https://www.paypal.me/yovanyluis/5" rel="noopener noreferrer" target="_blank" aria-label="retweet">
+      <a className="card-footer-item" href="http://bit.ly/2H3H54d" rel="noopener noreferrer" target="_blank" aria-label="retweet">
         <span className="icon has-text-primary">
           <i className="fas fa-hamburger"></i>
         </span>
